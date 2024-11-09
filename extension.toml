@@ -1,0 +1,7 @@
+id = "todo-color"
+name = "Todo Color"
+description = "color for the todo items"
+version = "0.0.1"
+schema_version = 1
+authors = ["Basile Jeannot <basiljeannot@gmail.com>"]
+repository = "https://github.com/fan2bolide/zed-todo"
